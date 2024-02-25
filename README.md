@@ -16,10 +16,10 @@ It will show you the title, rating, how many reviews and a image of the product.
 
 - Install the dependencies
 
-    npm install cheerio axios express
+    ```npm install cheerio axios express```
 
 - Start the server 
-    npm start or node server.js
+    ```npm start or node server.js```
 
 - Open the index.html file
 
