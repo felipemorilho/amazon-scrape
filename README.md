@@ -18,7 +18,8 @@ It will show you the title, rating, how many reviews and a image of the product.
 
     ```npm install cheerio axios express```
 
-- Start the server 
+- Start the server
+
     ```npm start or node server.js```
 
 - Open the index.html file
@@ -27,10 +28,10 @@ It will show you the title, rating, how many reviews and a image of the product.
 
 ## Project Structure
 
-- server.js: Node.js backend server file.
-- script.js: FrontEnd using JavaScript
-- index.html: HTML file with the web structure
-- style.css: CSS style file to customize the user view.
+- **server.js**: Node.js backend server file.
+- **script.js**: FrontEnd using JavaScript
+- **index.html**: HTML file with the web structure
+- **style.css**: CSS style file to customize the user view.
 
 
 
